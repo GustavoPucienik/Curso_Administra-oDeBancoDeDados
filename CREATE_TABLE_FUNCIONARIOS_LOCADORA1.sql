@@ -1,0 +1,4 @@
+USE LOCADORA1
+GO
+
+SELECT * FROM Tbl_Funcionarios
